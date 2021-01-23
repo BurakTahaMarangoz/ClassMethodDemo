@@ -51,7 +51,7 @@ namespace ClassMethodDemo
                     break;
 
                 case "3":
-                    customerManager.CustomerList(customers);
+                    customerManager.CustomerList(customers); // 
                     break;
             }
 
